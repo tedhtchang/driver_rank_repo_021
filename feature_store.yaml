@@ -3,4 +3,5 @@ registry: data/registry.db
 provider: local
 online_store:
   type: redis
-  connection_string: "localhost:6379"
+#  connection_string: "localhost:6379"
+  connection_string: "150.238.223.198:30480"

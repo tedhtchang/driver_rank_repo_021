@@ -2,17 +2,17 @@
 H
 (
 	driver_id"	driver_idJdriver_ranking
-ÿúÚ”àıÅÿúÚ”àıÅ
+˜˜Ü”ÀØâ‘˜˜Ü”ÀØâ‘
 G
 '
 __dummy"
 __dummy_idJdriver_ranking
-ÿúÚ”ğØÿÅÿúÚ”ØÚÆ1"$243da0e2-8cb1-453b-8925-512d3e655511*€üÚ”ÈÜÕ²2Ì
+˜˜Ü”°à‘˜˜Ü”¨Úä‘1"$ceba9a8c-d2b2-4415-9e08-d114d0b64400*Ø˜Ü”èšÃ-2Ë
 “
 driver_hourly_statsdriver_ranking	driver_id"
 	conv_rate"
 acc_rate"
 avg_daily_trips*
-teamdriver_performance2€Äÿ:‰event_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/driver_stats.parquet@4
-ÿúÚ”ˆòôÅ€üÚ”ØãÃ²
-ÿ·Û…˜œåşûûÚ”bševent_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/driver_stats.parquetªdriver_ranking
+teamdriver_performance2€Äÿ:‰event_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/driver_stats.parquet@3
+˜˜Ü”¨Ø‘Ø˜Ü”¨˜¯-
+×ÔÜ…ÀÀƒ×Õ˜Ü”bševent_timestamp*createdZdata/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/driver_stats.parquetªdriver_ranking
